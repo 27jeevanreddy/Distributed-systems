@@ -1,0 +1,1 @@
+WATCHDOG: https://xiaoouwang.medium.com/create-a-watchdog-in-python-to-look-for-filesystem-changes-aaabefd14de4
